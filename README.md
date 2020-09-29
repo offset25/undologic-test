@@ -1,3 +1,16 @@
+urls that have been added
+https://undologic-test-dev.serverdatahost.com/src/
+https://undologic-test-dev.serverdatahost.com/src/pages/career
+https://undologic-test-dev.serverdatahost.com/src/pages/about
+https://undologic-test-dev.serverdatahost.com/src/pages/main-demo
+https://undologic-test-dev.serverdatahost.com/src/pages/blog-full-width
+https://undologic-test-dev.serverdatahost.com/src/pages/home-shop
+https://undologic-test-dev.serverdatahost.com/src/pages/services
+https://undologic-test-dev.serverdatahost.com/src/pages/career
+https://undologic-test-dev.serverdatahost.com/src/pages/team-member
+https://undologic-test-dev.serverdatahost.com/src/pages/faq
+
+
 # updateCase-boilerPlate
 UpdateCase.com project base - Manage and launch your project with Docker and Ansible
 
